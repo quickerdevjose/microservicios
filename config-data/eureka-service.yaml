@@ -3,8 +3,8 @@ server:
 
 eureka:
   client:
-    fetch-registry: false
-    register-with-eureka: false
+    fetchRegistry: false
+    registerWithEureka: false
     
 spring:
   application:
